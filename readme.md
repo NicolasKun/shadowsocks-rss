@@ -7,6 +7,8 @@ ZeroNet主页：[shadowsocksr.bit](http://127.0.0.1:43110/shadowsocksr.bit)
 ShadowsocksR主要分支：[SSR C#](https://github.com/shadowsocksr/shadowsocksr-csharp), [SSR python manyuser](https://github.com/shadowsocksr/shadowsocksr/tree/manyuser), [SSR-libev](https://github.com/shadowsocksr/shadowsocksr-libev)  
 Android APP: [SSR-android](https://github.com/shadowsocksr/shadowsocksr-android/releases)  
 iOS APP： [Shadowrocket](https://itunes.apple.com/us/app/shadowrocket/id932747118), [Potatso2](https://download.potatso.com), [Cross](https://itunes.apple.com/cn/app/cross-shadowsocks-proxy-client/id1194595243)  
+Surge，A.BIG.T，Shadowrocket，Potatso 2，Wingy，Cross（已下架） ，Quantumult，SsrConnect，Mume VPN（自带2个SS 节点信息），AnyFlow，Take（原名LDSS） ，ShadowAgent(原名也叫Shadow VPN) ，Shadow VPN（下架），捷径 Circuit VPN，Alice，Shadowing，SSVPN，SS5（已下架），Level.4（已下架），Shadowfish，ShadowTunnel，LiFi（作者暂时下架），Waterdrop，Fugu2，南瓜加速，秒连VPN，影纤，Speedflow，Chisel，iCProxy，DarkNetSW，Anyconnect，ShadowBroken，Netkit，小火箭 for 影梭shadowsocks，Brook，SkipWorld，ishadowsocks（已下架），夜莺，Leap
+
 MAC APP：[ShadowsocksX-NG](https://github.com/qinyuhang/ShadowsocksX-NG/releases), [ShadowsocksX-R](https://github.com/yichengchen/ShadowsocksX-R/releases)  
 其它跨平台分支：[avege](https://github.com/avege/avege), [electron-ssr](https://github.com/erguotou520/electron-ssr)  
 Docker: [https://hub.docker.com/r/breakwa11/shadowsocksr/](https://hub.docker.com/r/breakwa11/shadowsocksr/)
